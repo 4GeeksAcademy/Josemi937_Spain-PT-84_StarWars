@@ -14,7 +14,7 @@ export const Navbar = () => {
             alt="Logo"
             width="120"
             height="auto"
-            src="https://raw.githubusercontent.com/4GeeksAcademy/marvin-sojo-blog-de-starwars/refs/heads/master/src/img/logo-starwars.png"
+            src="https://lumiere-a.akamaihd.net/v1/images/sw_logo_stacked_2x-52b4f6d33087_7ef430af.png?region=0,0,586,254" 
           />
         </span>
       </Link>
